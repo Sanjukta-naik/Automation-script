@@ -22,9 +22,17 @@ Prerequisites / Setup:
   2)Selenium WebDriver dependency added to the project
   
   3)ChromeDriver executable available in PATH
+  
+  4)Open the project in any IDE (e.g., IntelliJ IDEA, Eclipse).
+
+  5)Run the Automation_Task.java file.
+
+  6)Enter the OTP manually when prompted.
 
 Assumptions:
 
  1)OTP must be entered manually in the browser during login.
 
  2)Only one product is selected in the wishlist before logout.
+
+ 3)Tested with Google Chrome browser.
